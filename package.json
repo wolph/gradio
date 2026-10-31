@@ -61,7 +61,7 @@
 		"eslint": "^9.1.1",
 		"eslint-plugin-svelte": "^2.38.0",
 		"globals": "^15.1.0",
-		"happy-dom": "^14.7.1",
+		"happy-dom": "^21.0.4",
 		"jsdom": "^24.0.0",
 		"kleur": "^4.1.5",
 		"msw": "^2.2.14",
@@ -71,7 +71,7 @@
 		"plotly.js-dist-min": "^2.32.0",
 		"polka": "1.0.0-next.25",
 		"pollen-css": "^4.6.2",
-		"postcss": "^8.4.38",
+		"postcss": "^8.5.32",
 		"postcss-custom-media": "^10.0.4",
 		"postcss-nested": "^5.0.6",
 		"postcss-prefix-selector": "^1.16.1",
@@ -89,7 +89,7 @@
 		"tinyspy": "^3.0.0",
 		"typescript": "^5.5.4",
 		"typescript-svelte-plugin": "^0.3.42",
-		"vite": "^5.2.11",
+		"vite": "^6.4.5",
 		"vite-plugin-turbosnap": "1.0.3",
 		"vitest": "^1.5.3"
 	},
@@ -163,7 +163,7 @@
 		"@testing-library/user-event": "^14.5.2",
 		"chromatic": "^11.3.0",
 		"eslint-plugin-jsdoc": "^48.2.3",
-		"storybook": "^8.3.6",
+		"storybook": "^8.6.19",
 		"wikidata-lang": "^4.1.2"
 	},
 	"engines": {
