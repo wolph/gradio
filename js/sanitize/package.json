@@ -7,7 +7,7 @@
 	"main": "./dist/server.js",
 	"license": "ISC",
 	"dependencies": {
-		"sanitize-html": "^2.13.0",
+		"sanitize-html": "^2.18.1",
 		"amuchina": "^1.0.12"
 	},
 	"devDependencies": {
